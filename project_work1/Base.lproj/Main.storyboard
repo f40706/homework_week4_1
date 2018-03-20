@@ -391,13 +391,14 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="618"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="ctG-3q-b6D">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="ctG-3q-b6D">
                                 <rect key="frame" x="36" y="275" width="343" height="343"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">土耳其安哥拉貓是最古老的幾種長毛品種之一，原產於土耳其的安卡拉。16世紀時，土耳其蘇丹王將這種貓獻給歐洲的王公貴族作禮物。近年來由於安卡拉動物園的努力，才使之免於滅絕的命運。由於安哥拉貓擁有美麗茂密的長被毛，被稱為是「貴婦人」。安哥拉貓線條幽美，散發出高貴的氣息四肢之修長，尾巴覆蓋著有如羽毛飾品般濃密的被毛，整體感覺幽雅，頭部是嬌小的倒三角形，鼻子長眼睛是核桃形，目色和被毛顏色相同。耳朵很大，耳根寬，越往末端越細。在美國所謂的土耳其貓是指土耳其凡貓，一般所說的土耳其安哥拉貓是指安哥拉貓，因此不要混淆了。5 L+ G- i# \( J</mutableString>
+                                <mutableString key="text">土耳其安哥拉貓是最古老的幾種長毛品種之一，原產於土耳其的安卡拉。16世紀時，土耳其蘇丹王將這種貓獻給歐洲的王公貴族作禮物。近年來由於安卡拉動物園的努力，才使之免於滅絕的命運。由於安哥拉貓擁有美麗茂密的長被毛，被稱為是「貴婦人」。安哥拉貓線條幽美，散發出高貴的氣息四肢之修長，尾巴覆蓋著有如羽毛飾品般濃密的被毛，整體感覺幽雅，頭部是嬌小的倒三角形，鼻子長眼睛是核桃形，目色和被毛顏色相同。耳朵很大，耳根寬，越往末端越細。在美國所謂的土耳其貓是指土耳其凡貓，一般所說的土耳其安哥拉貓是指安哥拉貓，因此不要混淆了。 http://people.chu.edu.tw/~s09603050/linkpage/new_page_2.htm</mutableString>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                <dataDetectorType key="dataDetectorTypes" phoneNumber="YES" link="YES" address="YES"/>
                             </textView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="土耳其安哥拉貓" translatesAutoresizingMaskIntoConstraints="NO" id="OSW-mp-DcU">
                                 <rect key="frame" x="71" y="75" width="273" height="192"/>
@@ -421,13 +422,14 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="618"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="3c9-eH-JP7">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="3c9-eH-JP7">
                                 <rect key="frame" x="36" y="275" width="343" height="343"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <string key="text">金吉拉(chinchilla)原意是指南美洲的小絨鼠，也算是波斯貓的一種，毛色分為銀白跟黃金虎班兩種，毛色相似而取其名。都是毛尖部份有顏色，毛底層沒有顏色，此外綠色的眼睛，像人一樣紋了眼線的眼框，是目前非常受歡迎的貓種，台灣已經有很多人擁有金吉拉了。金吉拉是最早純人工育種成功的品種之一，且在1894年正式獲得承認。</string>
+                                <string key="text">金吉拉(chinchilla)原意是指南美洲的小絨鼠，也算是波斯貓的一種，毛色分為銀白跟黃金虎班兩種，毛色相似而取其名。都是毛尖部份有顏色，毛底層沒有顏色，此外綠色的眼睛，像人一樣紋了眼線的眼框，是目前非常受歡迎的貓種，台灣已經有很多人擁有金吉拉了。金吉拉是最早純人工育種成功的品種之一，且在1894年正式獲得承認。 http://people.chu.edu.tw/~s09603050/linkpage/new_page_2.htm</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                <dataDetectorType key="dataDetectorTypes" phoneNumber="YES" link="YES" address="YES"/>
                             </textView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="金吉垃" translatesAutoresizingMaskIntoConstraints="NO" id="Ufr-RW-Tcg">
                                 <rect key="frame" x="71" y="75" width="273" height="192"/>
@@ -455,13 +457,14 @@
                                 <rect key="frame" x="71" y="88" width="273" height="192"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="KxJ-8n-bV0">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="KxJ-8n-bV0">
                                 <rect key="frame" x="36" y="288" width="343" height="343"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">美國捲耳貓具有形狀獨特的耳朵，在貓界很受喜愛。美國捲耳貓發源於l98l年，當時一隻在南加州被拾獲的黑貓，有一對形狀奇怪的耳朵。耳朵向外捲曲，像被小孩子惡作劇故意外翻似的。這隻黑貓所產下的四隻小貓中，有二隻的耳朵也是向外捲曲，因此知道這個特徵會遺傳，就開始繁殖美國捲耳貓。美國捲耳貓第一次出現在貓展是在l983年時，獲得正式承認是在1987年。耳朵是視線焦點所在，不過剛出生時是直的，和一般的小貓沒兩樣，大約從出生後第4~7天起開始慢慢捲曲。即使貓父母都是美國捲耳貓，小貓耳朵捲曲的機率據說是50%，因此對飼養小貓的人來說，是非常戰戰兢兢的一個星期。圓形倒三角形頭部及輪廓流暢的嘴巴所構成的表情，和捲曲的耳朵也很搭配。體型屬於結實的半外國型，被毛觸感柔軟，為半長形。性情如同其外表，很愛撒嬌、玩耍的模樣天真無邪，即使是成貓還像隻小貓似的。</mutableString>
+                                <mutableString key="text">美國捲耳貓具有形狀獨特的耳朵，在貓界很受喜愛。美國捲耳貓發源於l98l年，當時一隻在南加州被拾獲的黑貓，有一對形狀奇怪的耳朵。耳朵向外捲曲，像被小孩子惡作劇故意外翻似的。這隻黑貓所產下的四隻小貓中，有二隻的耳朵也是向外捲曲，因此知道這個特徵會遺傳，就開始繁殖美國捲耳貓。美國捲耳貓第一次出現在貓展是在l983年時，獲得正式承認是在1987年。耳朵是視線焦點所在，不過剛出生時是直的，和一般的小貓沒兩樣，大約從出生後第4~7天起開始慢慢捲曲。即使貓父母都是美國捲耳貓，小貓耳朵捲曲的機率據說是50%，因此對飼養小貓的人來說，是非常戰戰兢兢的一個星期。圓形倒三角形頭部及輪廓流暢的嘴巴所構成的表情，和捲曲的耳朵也很搭配。體型屬於結實的半外國型，被毛觸感柔軟，為半長形。性情如同其外表，很愛撒嬌、玩耍的模樣天真無邪，即使是成貓還像隻小貓似的。 http://people.chu.edu.tw/~s09603050/linkpage/new_page_2.htm</mutableString>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                <dataDetectorType key="dataDetectorTypes" phoneNumber="YES" link="YES" address="YES"/>
                             </textView>
                         </subviews>
                         <color key="backgroundColor" red="0.46202266219999999" green="0.83828371759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -481,13 +484,14 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="618"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="K0L-dT-TFz">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="K0L-dT-TFz">
                                 <rect key="frame" x="36" y="275" width="343" height="343"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">90年代，貓的世界也以獨具特色的外形最受歡。其中，蘇格蘭摺耳貓在日本越來越受喜愛。向下摺的奇妙耳朵及圓臉、圓眼睛。猶如從漫畫中跳出來的可愛模樣,不知獵取了多少人心。l96l年時，在蘇格蘭的一戶牧羊農家，突然生出摺耳的小貓是蘇格蘭摺耳貓最早的起源。根據表示出生地及耳朵下摺現象的英文，而命名為蘇格蘭摺耳貓。不過，這種下摺的耳朵實在是少有的突變。正因為過去也有生出畸形貓的事情發生，所以有一段時期在英國禁止繁殖。但是,不斷進行慎重異種交配的結果，終於能繁殖出健康的小貓，而於l978年獲得正式承認。小貓耳朵下摺的機率大約是30%。大約從出生後第三週開始慢慢往下摺。不過，下摺後的耳朵並非一直都是保持這個形狀，有時會因性成熟、疾病或壓力等恢復原狀，直立起來。除了耳朵所強調的圓臉之外，體型渾圓可愛，屬於半短身型，特徵是全身團滾滾的。性情溫和嬌柔，而且身體強健，所以很適合做為寵物。</mutableString>
+                                <mutableString key="text">90年代，貓的世界也以獨具特色的外形最受歡。其中，蘇格蘭摺耳貓在日本越來越受喜愛。向下摺的奇妙耳朵及圓臉、圓眼睛。猶如從漫畫中跳出來的可愛模樣,不知獵取了多少人心。l96l年時，在蘇格蘭的一戶牧羊農家，突然生出摺耳的小貓是蘇格蘭摺耳貓最早的起源。根據表示出生地及耳朵下摺現象的英文，而命名為蘇格蘭摺耳貓。不過，這種下摺的耳朵實在是少有的突變。正因為過去也有生出畸形貓的事情發生，所以有一段時期在英國禁止繁殖。但是,不斷進行慎重異種交配的結果，終於能繁殖出健康的小貓，而於l978年獲得正式承認。小貓耳朵下摺的機率大約是30%。大約從出生後第三週開始慢慢往下摺。不過，下摺後的耳朵並非一直都是保持這個形狀，有時會因性成熟、疾病或壓力等恢復原狀，直立起來。除了耳朵所強調的圓臉之外，體型渾圓可愛，屬於半短身型，特徵是全身團滾滾的。性情溫和嬌柔，而且身體強健，所以很適合做為寵物。 http://people.chu.edu.tw/~s09603050/linkpage/new_page_2.htm</mutableString>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                <dataDetectorType key="dataDetectorTypes" phoneNumber="YES" link="YES" address="YES"/>
                             </textView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="蘇格蘭摺耳貓" translatesAutoresizingMaskIntoConstraints="NO" id="HZu-nm-4um">
                                 <rect key="frame" x="71" y="75" width="273" height="192"/>
@@ -511,13 +515,14 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="618"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="Qda-o4-S9e">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="Qda-o4-S9e">
                                 <rect key="frame" x="36" y="275" width="343" height="343"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">喜馬拉雅貓具有波斯貓豪華的被毛與渾圓的體型，以及暹邏貓的重點色和藍眼。1930年時，英國和美國大約同時開始進行研究。美國的研究目的是為了獲取有關家貓的遺傳知識。1935年時出現最早的喜馬拉雅貓，不過是長毛種有重點色，體型纖細近似暹邏貓。暹邏貓的毛色和波斯貓的體型，都是劣性遺傳因子所造成的。大約在同時，英國一群熱心的繁殖者，為了成功繁殖有重點色的波斯貓而不斷努力進行研究。人類關心這個研究，大約是從20年後，1950年開始。在英國於l955年獲得正式承認，美國則在過2年後，於l957年獲得承認。由於不斷努力的結果，現在的喜馬拉雅貓除了目色和重點色之外，所有的特徵都和波斯貓一樣。喜馬拉雅貓的名字是因為和同名的兔子很相似而得名。由於是人工繁殖的品種，所以和喜馬拉雅山沒有關係。性情溫和謹慎，動作也很優雅。活潑的暹邏貓血統，在性情方面似乎也受到壓抑。</mutableString>
+                                <mutableString key="text">喜馬拉雅貓具有波斯貓豪華的被毛與渾圓的體型，以及暹邏貓的重點色和藍眼。1930年時，英國和美國大約同時開始進行研究。美國的研究目的是為了獲取有關家貓的遺傳知識。1935年時出現最早的喜馬拉雅貓，不過是長毛種有重點色，體型纖細近似暹邏貓。暹邏貓的毛色和波斯貓的體型，都是劣性遺傳因子所造成的。大約在同時，英國一群熱心的繁殖者，為了成功繁殖有重點色的波斯貓而不斷努力進行研究。人類關心這個研究，大約是從20年後，1950年開始。在英國於l955年獲得正式承認，美國則在過2年後，於l957年獲得承認。由於不斷努力的結果，現在的喜馬拉雅貓除了目色和重點色之外，所有的特徵都和波斯貓一樣。喜馬拉雅貓的名字是因為和同名的兔子很相似而得名。由於是人工繁殖的品種，所以和喜馬拉雅山沒有關係。性情溫和謹慎，動作也很優雅。活潑的暹邏貓血統，在性情方面似乎也受到壓抑。 http://people.chu.edu.tw/~s09603050/linkpage/new_page_2.htm</mutableString>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                <dataDetectorType key="dataDetectorTypes" phoneNumber="YES" link="YES" address="YES"/>
                             </textView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="喜馬拉雅貓" translatesAutoresizingMaskIntoConstraints="NO" id="XwS-hA-xDz">
                                 <rect key="frame" x="71" y="75" width="273" height="192"/>
@@ -541,13 +546,14 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="618"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="oir-cI-Jix">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="oir-cI-Jix">
                                 <rect key="frame" x="36" y="275" width="343" height="343"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">俄國藍貓擁有「冬天裡的精靈」「短毛種中的貴族」等數個美麗的名稱。端正的容貌，加上全身包著像保護纖細身體般厚銀藍色被毛的體態，猶如寒帶國度的王子。有關其由來，有幾種傳說，也有人說最早是俄國的乘船客帶進歐洲的貓，不過到底是不是真的並不清楚。首度出現在貓展是在l9世紀末的時候。當時的俄國藍貓，據說臉形和身體都比現在的圓。第二次世界大戰時曾面臨絕種的危機，不過經過繁殖者的努力，終於可以存活下來。之後因為和暹邏貓交配，慢慢形成現在纖細的體型。但是，也有人懷念以前的體型，所以現在又漸漸恢復從前的體型。特徵所在的厚被毛，是短密的雙層被毛。如絨毯般的觸感有可能是經歷好幾代才形成的。體型是外國型。這種體型的藍色短毛種只有俄國藍貓一種。被稱為是「無聲貓」，性情穩重內向，會認生，不過對主人倒是很忠心。</mutableString>
+                                <mutableString key="text">俄國藍貓擁有「冬天裡的精靈」「短毛種中的貴族」等數個美麗的名稱。端正的容貌，加上全身包著像保護纖細身體般厚銀藍色被毛的體態，猶如寒帶國度的王子。有關其由來，有幾種傳說，也有人說最早是俄國的乘船客帶進歐洲的貓，不過到底是不是真的並不清楚。首度出現在貓展是在l9世紀末的時候。當時的俄國藍貓，據說臉形和身體都比現在的圓。第二次世界大戰時曾面臨絕種的危機，不過經過繁殖者的努力，終於可以存活下來。之後因為和暹邏貓交配，慢慢形成現在纖細的體型。但是，也有人懷念以前的體型，所以現在又漸漸恢復從前的體型。特徵所在的厚被毛，是短密的雙層被毛。如絨毯般的觸感有可能是經歷好幾代才形成的。體型是外國型。這種體型的藍色短毛種只有俄國藍貓一種。被稱為是「無聲貓」，性情穩重內向，會認生，不過對主人倒是很忠心。 http://people.chu.edu.tw/~s09603050/linkpage/new_page_2.htm</mutableString>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                <dataDetectorType key="dataDetectorTypes" phoneNumber="YES" link="YES" address="YES"/>
                             </textView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="俄國藍貓" translatesAutoresizingMaskIntoConstraints="NO" id="lSE-iT-Mk5">
                                 <rect key="frame" x="71" y="75" width="273" height="192"/>
@@ -571,13 +577,14 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="618"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="lUe-20-0Fk">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="lUe-20-0Fk">
                                 <rect key="frame" x="36" y="275" width="343" height="343"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">外國種短毛貓保有波斯貓圓滾滾的體型及可愛的面貌，不同的是身上的被毛變短了。因此，被匿稱為是「穿著睡衣的波斯貓」。生出遺傳有波斯貓的特徵，卻又能省去梳理被毛麻煩的短毛貓，是繁殖者的夢想。不過，要實現這個夢想必須經過一番努力。繁殖計劃開始之初，在l960年代是選擇緬甸貓或英國短毛貓他為交配對象。不過，初期的外國種短毛貓體型還很瘦弱，有些繁殖者甚至強烈批評外國種短毛貓「有損純種貓」，最後終於1968年時禁止交配。之後又持續進行確實的努力，不斷與美國短毛貓交配，於是體型慢慢接近波斯貓。到了l980年，體型已徹底成形，確立自己的品種。現在，被毛以外的特徵完全和波斯貓一樣，例如，短身型的體型、小耳朵、短鼻子等。當然，性情方面也受到波斯貓的影響，天性溫順、穩重、優雅，在經歷過艱難歷史後的現在，在貓展中已有優秀的成績表現，廣受貓迷喜愛。</mutableString>
+                                <mutableString key="text">外國種短毛貓保有波斯貓圓滾滾的體型及可愛的面貌，不同的是身上的被毛變短了。因此，被匿稱為是「穿著睡衣的波斯貓」。生出遺傳有波斯貓的特徵，卻又能省去梳理被毛麻煩的短毛貓，是繁殖者的夢想。不過，要實現這個夢想必須經過一番努力。繁殖計劃開始之初，在l960年代是選擇緬甸貓或英國短毛貓他為交配對象。不過，初期的外國種短毛貓體型還很瘦弱，有些繁殖者甚至強烈批評外國種短毛貓「有損純種貓」，最後終於1968年時禁止交配。之後又持續進行確實的努力，不斷與美國短毛貓交配，於是體型慢慢接近波斯貓。到了l980年，體型已徹底成形，確立自己的品種。現在，被毛以外的特徵完全和波斯貓一樣，例如，短身型的體型、小耳朵、短鼻子等。當然，性情方面也受到波斯貓的影響，天性溫順、穩重、優雅，在經歷過艱難歷史後的現在，在貓展中已有優秀的成績表現，廣受貓迷喜愛。 http://people.chu.edu.tw/~s09603050/linkpage/new_page_2.htm</mutableString>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                <dataDetectorType key="dataDetectorTypes" phoneNumber="YES" link="YES" address="YES"/>
                             </textView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="外國種短毛貓" translatesAutoresizingMaskIntoConstraints="NO" id="39d-d4-oyL">
                                 <rect key="frame" x="71" y="75" width="273" height="192"/>
@@ -601,7 +608,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="618"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="SjN-kk-a31">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="SjN-kk-a31">
                                 <rect key="frame" x="36" y="275" width="343" height="343"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -613,9 +620,10 @@
 1985年孟加拉貓已可以在美國貓展展出，並深受歐美人士喜愛。到了1996年才開始被引入香港。不知道台灣有沒有，畢竟可以陪主人泡澡的貓咪並不會很多吧
 孟加拉貓擁有野貓的外表特質和家貓親切可靠的品性，身軀狹長且肌肉發達，頭部圓型壯實，鼻寬耳大，四肢發達結實，後肢比前肢稍長，腳掌又大又圓，骨骼粗大，看上去有一種粗豪、強壯的感覺，後臀及腿比肩部稍高，披毛光滑，尾巴上並有斑紋。幼貓的被毛較粗糙，要到一歲時才能長成身體上的淡紅色。
 孟加拉貓的斑點紋非常特別，與斑點虎斑完全不一樣。大大的斑點成水平狀分布，很像玫瑰花形。又因為具有野貓血統，因此激動、不易抑制叫聲為其主要特徵之一。
-孟加拉貓即使擁有狂野的山貓血統，性格方面卻被家貓的溫馴所蓋過，善於與人相處及喜歡被人撫摸。這種貓的叫聲不大，但卻喜愛跟主人說話，並很喜歡跟小孩子玩耍。適應力強和好奇心旺盛也是孟加拉貓的特色之一。由於隱藏著野性的血統，勉強讓牠黏在身邊只會惹來反感，因此給牠一定的自由度為其飼養要點。 </mutableString>
+孟加拉貓即使擁有狂野的山貓血統，性格方面卻被家貓的溫馴所蓋過，善於與人相處及喜歡被人撫摸。這種貓的叫聲不大，但卻喜愛跟主人說話，並很喜歡跟小孩子玩耍。適應力強和好奇心旺盛也是孟加拉貓的特色之一。由於隱藏著野性的血統，勉強讓牠黏在身邊只會惹來反感，因此給牠一定的自由度為其飼養要點。 http://people.chu.edu.tw/~s09603050/linkpage/new_page_2.htm </mutableString>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                <dataDetectorType key="dataDetectorTypes" phoneNumber="YES" link="YES" address="YES"/>
                             </textView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="孟加拉貓" translatesAutoresizingMaskIntoConstraints="NO" id="gnA-n4-z2X">
                                 <rect key="frame" x="71" y="75" width="273" height="192"/>
@@ -639,13 +647,14 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="618"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="AgG-Ln-LK8">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="AgG-Ln-LK8">
                                 <rect key="frame" x="36" y="275" width="343" height="343"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">神秘的金色貓，阿比西尼亞貓的歷史非常古老，關於牠的由來有幾種傳說。其中最有名的傳說記載阿比西尼亞貓是被飼養在古埃及法老王宮殿中的聖貓的直系子孫。難怪當時的壁畫上所畫的貓，看起來感覺就像阿比西尼亞貓，不過到底是不是真的，至今還是個迷。事實上，l868年英國士兵從阿比西尼亞(衣索比亞)帶回英國本土的貓才是現在的阿比西尼亞貓的祖先。之後不斷進行品種改良，才產生現今的阿比西尼亞貓。由於視線焦點的金色被毛，每一根都有2~3個色帶，所以隨著身體擺動會出現微妙的明暗變化。這種被稱為阿比西尼亞虎斑的毛色，除了面積不大的額頭M字部位外，幾乎看不到有條紋花樣。體型屬於中型，為線條流暢的外國型。優美的四肢前會有堅硬的小球形腳趾，所以又稱為球貓。性情容易接近人類，好奇心旺盛，是一種性情溫順的貓。</mutableString>
+                                <mutableString key="text">神秘的金色貓，阿比西尼亞貓的歷史非常古老，關於牠的由來有幾種傳說。其中最有名的傳說記載阿比西尼亞貓是被飼養在古埃及法老王宮殿中的聖貓的直系子孫。難怪當時的壁畫上所畫的貓，看起來感覺就像阿比西尼亞貓，不過到底是不是真的，至今還是個迷。事實上，l868年英國士兵從阿比西尼亞(衣索比亞)帶回英國本土的貓才是現在的阿比西尼亞貓的祖先。之後不斷進行品種改良，才產生現今的阿比西尼亞貓。由於視線焦點的金色被毛，每一根都有2~3個色帶，所以隨著身體擺動會出現微妙的明暗變化。這種被稱為阿比西尼亞虎斑的毛色，除了面積不大的額頭M字部位外，幾乎看不到有條紋花樣。體型屬於中型，為線條流暢的外國型。優美的四肢前會有堅硬的小球形腳趾，所以又稱為球貓。性情容易接近人類，好奇心旺盛，是一種性情溫順的貓。 http://people.chu.edu.tw/~s09603050/linkpage/new_page_2.htm</mutableString>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                <dataDetectorType key="dataDetectorTypes" phoneNumber="YES" link="YES" address="YES"/>
                             </textView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="阿比西尼亞貓" translatesAutoresizingMaskIntoConstraints="NO" id="fi3-3R-vzU">
                                 <rect key="frame" x="71" y="75" width="273" height="192"/>
@@ -669,7 +678,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="618"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="F7R-Fu-37o">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="F7R-Fu-37o">
                                 <rect key="frame" x="36" y="275" width="343" height="343"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -679,9 +688,10 @@
 然而,正確的波斯貓起源並不清楚.顧名思義,是在波斯(阿富汗)出生的貓種,可能是土生的長毛短身型貓種和土耳其的安哥拉貓交配所生下的貓.
 初期的波斯貓大概是受到安哥拉貓的影響,體型為纖細的外國型.之後經歷100年以上的歲月,演變成現今的體型.體型渾圓,四肢很短.小耳朵,小鼻子,好像有話要說的圓眼睛,波斯貓的任何部位都很可愛,不過獨特的扁平臉在美國貓展第一次出現時,曾經造成很大的話題.
 有關波斯貓理想體型的爭議,到現在還是討論的相當熱烈
-性情和外形一樣,溫文儒雅.動作也很優雅大方.在日本也曾經是最受喜愛的貓,不過短暫的白色及灰色喜愛熱潮已經過去了.最近,時髦及平紋這類色彩鮮艷的波斯貓似乎較受歡迎.</mutableString>
+性情和外形一樣,溫文儒雅.動作也很優雅大方.在日本也曾經是最受喜愛的貓,不過短暫的白色及灰色喜愛熱潮已經過去了.最近,時髦及平紋這類色彩鮮艷的波斯貓似乎較受歡迎. http://people.chu.edu.tw/~s09603050/linkpage/new_page_2.htm</mutableString>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                <dataDetectorType key="dataDetectorTypes" phoneNumber="YES" link="YES" address="YES"/>
                             </textView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="波 斯 貓" translatesAutoresizingMaskIntoConstraints="NO" id="lyO-yn-YuK">
                                 <rect key="frame" x="71" y="75" width="273" height="192"/>
